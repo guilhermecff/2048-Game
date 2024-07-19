@@ -8,6 +8,7 @@ This project is a Python implementation of the classic 2048 game using the Pygam
 - Smooth tile animations
 - Score tracking
 - Simple and intuitive controls
+- Restart game functionality
 
 ## Prerequisites
 
@@ -49,5 +50,9 @@ This project is a Python implementation of the classic 2048 game using the Pygam
     - Use the arrow keys (Up, Down, Left, Right) to move the tiles.
     - Combine tiles with the same number to create higher-numbered tiles.
     - The goal is to create a tile with the number 2048.
+
+3. **Restart the game**
+
+    - Press the 'R' key to restart the game at any time.
 
 
